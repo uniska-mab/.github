@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Banner UNISKA](https://via.placeholder.com/800x200/0d6efd/FFFFFF?text=Universitas+Islam+Kalimantan)
+![Banner UNISKA](image-min.png)
 
 </div>
 
